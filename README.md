@@ -1,1 +1,3 @@
-# Personal-Portfolio-Website-by-React
+To run :
+    "cd myapp
+    npm start"
